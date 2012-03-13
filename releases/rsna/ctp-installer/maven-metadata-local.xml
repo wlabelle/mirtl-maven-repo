@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>rsna</groupId>
+  <artifactId>ctp-installer</artifactId>
+  <versioning>
+    <release>X42</release>
+    <versions>
+      <version>X42</version>
+    </versions>
+    <lastUpdated>20120313141947</lastUpdated>
+  </versioning>
+</metadata>
